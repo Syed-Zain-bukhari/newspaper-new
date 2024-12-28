@@ -1,0 +1,41 @@
+h1 {
+  text-align: center;
+}
+.subheading {
+  text-align: center;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+}
+.parent {
+  display: flex;
+  padding: 10px;
+  text-align: justify;
+}
+.td1 {
+  margin-right: 2%;
+  margin-left: 2%;
+  flex: 1;
+}
+.td2 {
+  margin-right: 2%;
+  flex: 1;
+  border-right: 2px solid;
+  border-left: 2px solid;
+  padding-right: 2%;
+  padding-left: 2%;
+}
+.td3 {
+  margin-right: 2%;
+  flex: 1;
+}
+h3 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: larger;
+}
+img {
+  width: 200px;
+  float: left;
+}
+.para2 {
+  float: left;
+}
